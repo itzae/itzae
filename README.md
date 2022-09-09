@@ -2,7 +2,10 @@
 
 ### Bienvenid@
 
-<img src='https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif' align='left'>
+<p align="center">
+<img src='https://user-images.githubusercontent.com/27383308/189445234-2f1444cc-5ab2-4b77-b12a-6fdbca6955c7.gif' >
+</p>
+
 
 Soy Ingeniero en Sistemas Computacionales, especializado en el desarrollo móvil nativo. Me gusta estar en constante actualización,aprender nuevas tecnologías
 o implementarlas para el beneficio de los proyectos. Así mismo el trabajo en equipo es crucial para mí, pues de esta manera los objetivos son más alcanzables, además de poder compartir y adquirir el conocimiento del equipo.
